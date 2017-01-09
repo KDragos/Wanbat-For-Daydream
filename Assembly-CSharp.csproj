@@ -184,9 +184,13 @@
      <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\RenderEffect.cs" />
      <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\TransformExtension.cs" />
      <Compile Include="Assets\Scripts\AttackInitializer.cs" />
+     <Compile Include="Assets\Scripts\Destroyable.cs" />
+     <Compile Include="Assets\Scripts\DestroyableBox.cs" />
      <Compile Include="Assets\Scripts\FireBoltSpellHandler.cs" />
      <Compile Include="Assets\Scripts\ICastable.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
+     <Compile Include="Assets\Scripts\SpawnCubes.cs" />
+     <Compile Include="Assets\Scripts\Spell.cs" />
      <Compile Include="Assets\Scripts\SpellHandlerController.cs" />
      <Compile Include="Assets\Scripts\WaitTimer.cs" />
      <None Include="Assets\ImportedAssets\100 Best Effect Pack\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
@@ -272,6 +276,7 @@
      <None Include="Assets\GoogleVR\Shaders\GvrReticleShader.shader" />
      <None Include="Assets\ImportedAssets\100 Best Effect Pack\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\ImportedAssets\100 Best Effect Pack\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+     <None Include="Assets\PBS Materials Variety Pack\readme.txt" />
      <None Include="Assets\ImportedAssets\100 Best Effect Pack\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
      <None Include="Assets\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleAddEffect.shader" />
      <None Include="Assets\ImportedAssets\100 Best Effect Pack\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />

@@ -24,7 +24,7 @@ public class SpellHandlerController : MonoBehaviour {
 		currentPosition = new Vector3 (0, 0, 0);
 
 		// Add SpellHandlers.
-		spellHandlers.Add(new FireBoltSpellHandler());
+//		spellHandlers.Add(new FireBoltSpellHandler());
 	}
 	// Use this for initialization
 	void Start () {
